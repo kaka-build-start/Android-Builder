@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
+      "repo": "https://github.com/kaka-build-start/android_kernel_xiaomi_oxygen",
+      "branch": "lineageos-21",
       "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "defconfig": "vendor/msm8953-perf_defconfig"
     },
     "toolchains": [
       {
