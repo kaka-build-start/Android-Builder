@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Mi6X",
       "repo": "https://github.com/kaka-build-start/android_kernel_xiaomi_oxygen",
-      "branch": "lineage-21",
+      "branch": "new",
       "device": "wayne",
       "defconfig": "vendor/msm8953-perf_defconfig"
     },
