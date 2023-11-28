@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Mi6X",
       "repo": "https://github.com/kaka-build-start/kernel_msm8953_4.19",
-      "branch": "spec/oxygen/next",
+      "branch": "oxygen/spec/next",
       "device": "wayne",
       "defconfig": "vendor/msm8953-perf_defconfig"
     },
