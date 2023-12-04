@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Mi6X",
-      "repo": "https://github.com/halibe/android_kernel_xiaomi_oxygen",
+      "repo": "https://github.com/halibw/android_kernel_xiaomi_oxygen",
       "branch": "lineage-21",
       "device": "wayne",
       "defconfig": "vendor/msm8953-perf_defconfig"
