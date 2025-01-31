@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Mi6X",
-      "repo": "https://github.com/halibw/android_kernel_xiaomi_oxygen",
-      "branch": "lineage-21",
+      "repo": "https://github.com/rlightz7if/mido-bpffuxk",
+      "branch": "lineage-22.1",
       "device": "wayne",
-      "defconfig": "vendor/msm8953-perf_defconfig"
+      "defconfig": "mido_defconfig"
     },
     "toolchains": [
       {
